@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter> -- <facebook>
+    Antoine Rime 	antoine.rime@gmail.com
 
 # THANKS
 
